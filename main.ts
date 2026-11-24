@@ -13,8 +13,8 @@
 //   C4 inside one line and under the character limit, every word pulling
 //      weight, nothing repeated
 //   C5 surprises on the first read and still holds up on the second
-//      (a line that explains its own joke is weaker; a line listing several
-//      excuses is weaker than one committing to a single absurd reason)
+//   (a line that explains its own joke is weaker; a line listing several
+//   excuses is weaker than one committing to a single absurd reason)
 //
 // 14 candidates drafted, modal/weak ones rejected:
 //   1. WINNER (91 chars): "I simulated the deadline 10,000 times and
